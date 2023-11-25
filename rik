@@ -1,0 +1,4 @@
+git remote добавляет origin https://github.com/Serafim-1/transilvania.git 
+  ветвь git -M main
+  ,git push -u origin main
+stabilityai/stable-video-diffusion-img2vid
